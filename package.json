@@ -1,0 +1,14 @@
+{
+  "name": "chrome-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome --headless"
+  },
+  "keywords": [],
+  "author": "Alvin Lee",
+  "devDependencies": {
+    "cypress": "^13.11.0"
+  }
+}
